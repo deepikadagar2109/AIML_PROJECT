@@ -57,7 +57,9 @@ Lonavala) - Invalid entries (e.g., asdasdasd) - Names with spaces or
 hyphens (e.g., New York, Rio-de-Janeiro)
 
 ## Screenshots
-<img width="1361" height="884" alt="Screenshot 2025-11-19 163848" src="https://github.com/user-attachments/assets/7e334182-2880-4e9a-b2ff-d815a3520f19" />
+<img width="1216" height="588" alt="Screenshot 2026-03-30 000418" src="https://github.com/user-attachments/assets/178ba4aa-1019-425a-97f5-7b1359ecf952" />
+<img width="1196" height="579" alt="Screenshot 2026-03-30 000326" src="https://github.com/user-attachments/assets/3b1dfc7e-d0ff-47df-a53b-44b8abd57443" />
+
 
 
 
